@@ -1,0 +1,12 @@
+.venv/
+
+# workspace/bronze/.ipynb/
+workspace/bronze/db/*
+!workspace/bronze/db/db_teste.ipynb
+workspace/bronze/api/*
+workspace/silver/*
+workspace/gold/*
+
+data/bronze/*
+data/silver/*
+data/gold/*
